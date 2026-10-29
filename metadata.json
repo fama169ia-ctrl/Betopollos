@@ -1,0 +1,6 @@
+{
+  "name": "Asaduría El Brasero — POS, Cocina y Finanzas",
+  "description": "Sistema operativo Mobile-First PWA para local de pollos asados: POS táctil, control de cocción en 3 etapas, reserva de pedidos por hora, inventario con recetas/mermas y cierre financiero en Excel (.xlsx).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
